@@ -62,7 +62,7 @@ function gotResult(error, results) {
     {
 	    document.getElementById("update_emoji").innerHTML = "&#128532;";
     }
-    if(results[0].label == "enojadp")
+    if(results[0].label == "enojado")
     {
 	    document.getElementById("update_emoji").innerHTML = "&#128548;";
     }
